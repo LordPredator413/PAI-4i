@@ -1,1 +1,1 @@
-# Programowanie aplikacji internetowych Sebastian Maciejewski
+# Programowanie aplikacji internetowych - Sebastian Maciejewski
