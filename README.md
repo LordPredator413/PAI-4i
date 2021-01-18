@@ -1,1 +1,1 @@
-# PAI-4i
+# Programowanie aplikacji internetowych Sebastian Maciejewski
